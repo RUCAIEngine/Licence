@@ -1,4 +1,4 @@
-## Bayesian Active Causal Discovery with Multi-Fidelity Experiments
+# Bayesian Active Causal Discovery with Multi-Fidelity Experiments
 
 ## 1 Abstract
 
